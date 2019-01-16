@@ -1,0 +1,124 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+header
+	{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(ken2.jpeg);
+		height: 100vh;
+		background-size: cover;
+		background-position: center;
+	}
+	
+
+
+	.main-nav
+	{
+		float: right;
+		list-style: none;
+		margin-top: 40px;
+		margin-size: 50px;
+	}
+
+	.main-nav li
+	{
+		display: inline-block;
+	}
+
+	.main-nav li a
+	{
+		color: white;
+		text-decoration: none;
+		padding: 10px 20px;
+		font-family: "Roboto", "sans-serif;
+		font-size: 15px;
+	}
+
+	.main-nav li.active a
+	{
+		border: 1px solid white;
+	}
+
+	.main-nav li a:hover
+	{
+		border: 1px solid white;
+		background-color: black;
+		transition: 0.2 all ease in;
+	}
+
+	.logo
+	{
+		width: 80px;
+		height: auto;
+		float: left;
+	margin-top: 10px;
+	}
+
+	body
+	{
+		font-family: monospace;
+	}
+
+	.row
+	{
+		max-width: 1200px;
+		margin: auto;
+	}
+
+
+.header
+{
+	color: white;
+	font-family: "Roboto" , sans-serif;
+	font-size: 40px;
+	text-align: center;
+	margin-bottom: 50px;
+	padding: 180px;
+}
+.h2
+{
+	color: white;
+	font-family: "Roboto" , sans-serif;
+	font-size: 20px;
+	text-align: center;
+	margin-bottom: 30px;
+	padding: 80px;
+}
+.h3
+{
+	color: white;
+	font-family: "Roboto" , sans-serif;
+	font-size: 20px;
+	text-align: center;
+	margin-bottom: 20px;
+	padding: 80px;
+}
+.h4
+{
+	color: white;
+	font-family: "Roboto" , sans-serif;
+	font-size: 20px;
+	text-align: center;
+	margin-bottom: 20px;
+	padding: 80px;
+}
+.h7
+{
+	color: white;
+	font-family: "Roboto" , sans-serif;
+	font-size: 20px;
+	text-align: center;
+	margin-bottom: 50px;
+	padding: 100px;
+	text-align: justify;
+}
+
+
+
+	
+
+
+
+
