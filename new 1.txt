@@ -1,0 +1,8 @@
+INSERT INTO `kenneth` ( `emp_id`, `firstname`, `lastname`, `SALARY`, `AGE`, `title`, `date_time`) VALUES ('NULL', 'Jonie', 'Weber', '19500.00', 28, 'Ms.Secretary', 'NOW'); 
+INSERT INTO `kenneth` ( `emp_id`, `firstname`, `lastname`, `SALARY`, `AGE`, `title`, `date_time`) VALUES ('NULL', 'Potsy', 'Weber', '45300.00', 32, 'Ms.Programmer',' NOW'); 
+INSERT INTO `kenneth` ( `emp_id`, `firstname`, `lastname`, `SALARY`, `AGE`, `title`, `date_time`) VALUES ('NULL', 'Dirk', 'Smith', '75020.00', 42, 'Programmer II', 'NOW'); 
+INSERT INTO `kenneth` ( `emp_id`, `firstname`, `lastname`, `SALARY`, `AGE`, `title`, `date_time`) VALUES ('NULL', 'Inter', 'Sugod', '150.00', 16, 'Ms.Abogado', 'NOW'); 
+INSERT INTO `kenneth` ( `emp_id`, `firstname`, `lastname`, `SALARY`, `AGE`, `title`, `date_time`) VALUES ('NULL', 'Kernel', 'Chips', '12345.00', 31, 'Ms. CEMO', 'NOW'); 
+INSERT INTO `kenneth` ( `emp_id`, `firstname`, `lastname`, `SALARY`, `AGE`, `title`, `date_time`) VALUES ('NULL', 'Cong', 'Velasquez', '10000000.00', 27, 'Mr. Payaman', 'NOW' );
+INSERT INTO `kenneth` ( `emp_id`, `firstname`, `lastname`, `SALARY`, `AGE`, `title`, `date_time`) VALUES ('NULL', 'Maria', 'Sorio', '500000.00', 28, 'Ms.Business Woman', 'NOW'); 
+INSERT INTO `kenneth` ( `emp_id`, `firstname`, `lastname`, `SALARY`, `AGE`, `title`, `date_time`) VALUES ('NULL', 'Jane', 'Acedera', '250.00', 19, 'Ms.Secretary', 'NOW'); 
